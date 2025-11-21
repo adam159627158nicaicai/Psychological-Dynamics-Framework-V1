@@ -74,3 +74,13 @@ For collaboration or research inquiries:
 
 ## Notes
 Additional layers will be released in future versions if deemed safe and appropriate.
+## Collaboration Notice (For Research & AI Safety Teams)
+
+This repository publishes the structural layer of the Dynamic Self Model only.
+The core mechanism layer — including the Identity Coherence Engine,
+Generative Self-Loop Algorithms, and Stability Cascade Controls —
+is intentionally withheld for safety and research reasons.
+
+Research institutions, cognitive scientists, and AI development teams
+interested in collaborating on the mechanism layer may contact the author
+for coordinated access under controlled conditions.
